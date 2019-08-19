@@ -13,7 +13,7 @@ import (
 	"time"
 
 	units "github.com/docker/go-units"
-	"github.com/fsouza/go-dockerclient/internal/term"
+	"github.com/abrechon/go-dockerclient/internal/term"
 	gotty "github.com/ijc/Gotty"
 )
 
