@@ -33,7 +33,7 @@ import (
 
 	"github.com/docker/docker/pkg/homedir"
 	"github.com/docker/docker/pkg/stdcopy"
-	"github.com/fsouza/go-dockerclient/internal/jsonmessage"
+	"github.com/abrechon/go-dockerclient/internal/jsonmessage"
 )
 
 const (
